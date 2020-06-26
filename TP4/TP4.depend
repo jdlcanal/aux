@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1593179273 source:c:\users\ninav\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593179239 c:\users\ninav\desktop\tp4\linkedlist.h
+
+1593175867 source:c:\users\ninav\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
